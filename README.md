@@ -47,10 +47,10 @@
 <h2 align="left">🤝 Let's Connect</h2>
 
 <p align="left">
-  <a href="YOUR-LINKEDIN-URL">
+  <a href="https://www.linkedin.com/in/mohammad-a-alsalamat-651a43342/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
