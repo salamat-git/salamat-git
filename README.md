@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Mohammad Alsalamat | Network & Security Engineering" src="./assets/gh-readme-header.png" />
+  <img width="80%" alt="Mohammad Alsalamat | Network & Security Engineering" src="./gh-readme-header.png" />
 </p>
 
 <h1 align="center">Hi, I'm Mohammad Alsalamat 👋</h1>
